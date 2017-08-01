@@ -1,0 +1,12 @@
+#login-buttons {
+	margin: 18px;
+	font-size: 14px;
+}
+
+.list-group {
+	margin-top: 20px;
+}
+.list-group-item {
+	height: 55px;
+	box-shadow: 0 1px 5px 0 #999;
+}
